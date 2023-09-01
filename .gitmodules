@@ -3,20 +3,20 @@
 	url = https://github.com/anthonysimeonov/ndf_robot.git
 [submodule "acronym"]
 	path = acronym
-	url = git@github.com:thomasweng15/acronym.git
+	url = https://github.com/thomasweng15/acronym.git
 	branch = ngdf
 [submodule "OMG-Planner"]
 	path = OMG-Planner
-	url = git@github.com:thomasweng15/OMG-Planner.git
+	url = https://github.com/thomasweng15/OMG-Planner.git
 	branch = ngdf
 [submodule "differentiable-robot-model"]
 	path = differentiable-robot-model
-	url = git@github.com:thomasweng15/differentiable-robot-model.git
+	url = https://github.com/thomasweng15/differentiable-robot-model.git
 [submodule "theseus"]
 	path = theseus
-	url = git@github.com:thomasweng15/theseus.git
+	url = https://github.com/thomasweng15/theseus.git
 	branch = ngdf
 [submodule "contact_graspnet"]
 	path = contact_graspnet
-	url = git@github.com:thomasweng15/contact_graspnet.git
+	url = https://github.com/thomasweng15/contact_graspnet.git
 	branch = ngdf
